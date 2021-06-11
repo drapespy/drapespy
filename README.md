@@ -10,9 +10,10 @@
 ---
 
 ### Some Stats ig
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/583745403598405632?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/583745403598405632)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/583745403598405632)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/583745403598405632)](https://dev.discordprofiles.me/openspotify/583745403598405632)
+Top 4 most used languages:
+
+{{ LANGUAGE_TEMPLATE_START:max=4 }}
+![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
+{{ LANGUAGE_TEMPLATE_END }}
 
 #### Thanks for reading this!
