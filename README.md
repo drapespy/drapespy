@@ -9,11 +9,10 @@
 
 ---
 
-<details>
-  <summary>My GitHub Stats</summary>
-
-  <img align="left" alt="drapespy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=drapespy&show_icons=true&hide_border=true&theme=radical" />
-
-</details>
+### Some Stats ig
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/583745403598405632?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/583745403598405632)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/583745403598405632)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/583745403598405632)](https://dev.discordprofiles.me/openspotify/583745403598405632)
 
 #### Thanks for reading this!
