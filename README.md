@@ -6,8 +6,8 @@
 ### Some things about me
 - I am the lead develpoer of Vector Bot Development 
 - I bought a website: https://vectordev.xyz (in progress)
+- I play on the minecraft server - mc.hypixel.net (it epic :D)
 
 ---
 
-<a href="https://discord.com/users/583745403598405632"><img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/583745403598405632.png"></a>
 
